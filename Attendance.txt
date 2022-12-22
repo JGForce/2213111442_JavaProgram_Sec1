@@ -1,4 +1,4 @@
 StudentID : 2213111442
 FullName : Jirat Gaysorn
 AKA : JGForce 
-ClassDetail: Lab Sheet 4 : String Methods and Defined Methods
+Lab Sheet 7 : Class and Object, Array of Object
