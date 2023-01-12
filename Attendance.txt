@@ -1,4 +1,4 @@
 StudentID : 2213111442
 FullName : Jirat Gaysorn
 AKA : JGForce 
-Lab Sheet 7 : Class and Object, Array of Object
+Wrap up Lab SheetWrap up Lab Sheet
