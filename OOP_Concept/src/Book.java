@@ -12,8 +12,8 @@ public class Book {
 	public String getTitle() {
 	    return title;
 	}
-	public void setPrice(float string) {
-		this.price = string;
+	public void setPrice(float price) {
+		this.price = price;
 	}
 	public float getPrice() {
 	    return price;

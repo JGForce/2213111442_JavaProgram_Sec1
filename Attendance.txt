@@ -1,4 +1,4 @@
 StudentID : 2213111442
 FullName : Jirat Gaysorn
 AKA : JGForce 
-Lab Sheet 8 : Encapsulation
+ClassDetail : Lab Sheet 10 : Inheritance and Polymor
